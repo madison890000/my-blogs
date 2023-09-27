@@ -1,4 +1,4 @@
-#Coding and Cooking
+# Coding and Cooking
 
 I finally moved to Auckland and started living with my fiancee (we were separated for a year due to being in different countries).
 I have taken up the responsibility of doing the dishes at home again, as I am not very good at cooking. 
