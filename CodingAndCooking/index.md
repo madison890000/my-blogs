@@ -20,3 +20,6 @@ I am planning to discuss my thoughts from a few different aspects:
 
 If you have experience in software development and cooking, I believe that just by reading these titles, 
 you will start thinking about them involuntarily, as they are indeed intriguing.
+
+
+[LinkedIn article](https://www.linkedin.com/pulse/coding-cooking-madison-ma%3FtrackingId=LWNYp2SETP%252BXl4OSQABl%252Bg%253D%253D/?trackingId=LWNYp2SETP%2BXl4OSQABl%2Bg%3D%3D)
