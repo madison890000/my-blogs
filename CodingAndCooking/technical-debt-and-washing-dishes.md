@@ -14,12 +14,12 @@ just like we have to face a pile of dirty dishes in the sink, which can be quite
 
 ## Timing
 
-Through daily observations, I have noticed that my fiancee and I have different perspectives on when to do the dishes.
+Through daily observations, I have noticed that my fiancée and I have different perspectives on when to do the dishes.
 
 I tend to clean up and wash dishes while cooking (if I have free time), just like in my professional experience, 
 where I try to address some technical debt during the middle of project iterations.
 
-On the other hand, my fiancee prefers to start washing dishes after finishing a meal, 
+On the other hand, my fiancée prefers to start washing dishes after finishing a meal, 
 which can lead to a pile-up of dishes. However, she is willing to do it this way. In my work, 
 I have also encountered colleagues who prefer to focus on solving current issues and then handle technical 
 debt when they have time later, which ensures a faster project release.
@@ -51,14 +51,14 @@ If we focus too much on superficial problems that are right in front of us,
 we may waste too much energy and get cut by other hidden sharp edges.
 
 ## All-at-once or phased approach?
-While observing my fiancee's dishwashing process, I noticed a significant difference between her approach and mine.
+While observing my fiancée's dishwashing process, I noticed a significant difference between her approach and mine.
 
 I prefer to wash dishes twice, just like washing hair. my fiancee likes to wash it all at once.
 
-I throught the first wash is a rough wash to remove food residues and excess oil, 
+I thought the first wash is a rough wash to remove food residues and excess oil, 
 making everything look a bit cleaner. Then, I use an adequate amount of detergent for the second wash to ensure each dish is thoroughly cleaned. I believe this approach is more satisfying and saves dishwashing liquid (as most of the excess oil has already been removed).
 
-my fiancee's reasoning is that every time she completes washing one item, 
+my fiancée's reasoning is that every time she completes washing one item, 
 
 there is one less item in the sink, and this brings her joy. She doesn't think that my approach saves more dishwashing liquid or that it's necessary to save dishwashing liquid.
 We haven't conducted an experiment to confirm whether my guess about saving dishwashing liquid is correct. It's based on my own childhood experience and teachings, and I have always believed it to be true.
